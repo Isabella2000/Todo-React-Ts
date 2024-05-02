@@ -1,30 +1,16 @@
-# React + TypeScript + Vite
+# Proyecto Todo React Ts
+Guía de tipo de datos de typescript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Comandos
+1. Solo para crear el proyecto en consola con:
+2. npm create vite@latest name_proyecto
+3. y despues eguir la opciones y escoger typescrpit
+4. npm install para los modulos y listo
 
-Currently, two official plugins are available:
+## Requiere:
+-   **NODE**: Se debe instalar NODE en el sistema operativo
+-   **TYPESCRIPT**: Puede tener complicaciones al revisar la versión en la terminal, si es así ver un video 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Wow
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+> Sino mira el video de sergio code Curso de Typescript https://www.youtube.com/watch?v=UTA5bykCx2c
