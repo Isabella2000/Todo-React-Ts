@@ -1,5 +1,5 @@
 # Proyecto Todo React Ts
-Guía de tipo de datos de typescript
+Proyecto Todo o de tareas pendientes en React con typescript o sea tsx
 
 ## Comandos
 1. Solo para crear el proyecto en consola con:
